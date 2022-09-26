@@ -1,0 +1,16 @@
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.exe
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.deps.json
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.runtimeconfig.json
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.runtimeconfig.dev.json
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.dll
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\EContractQuiz1.pdb
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.csproj.AssemblyReference.cache
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.AssemblyInfoInputs.cache
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.AssemblyInfo.cs
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.csproj.CoreCompileInputs.cache
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.csproj.CopyComplete
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.dll
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.pdb
+F:\Workings\eContract\EContractQuiz1\EContractQuiz1\obj\Debug\netcoreapp3.1\EContractQuiz1.genruntimeconfig.cache

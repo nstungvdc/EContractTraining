@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jsIcTQ0DbrV8/H7QFA9B81kFLe4qxEVEl01pitMAfmOtZL8Tpuk8UBTWRr9i9rRwRlan1hv/QtofqtnSV4UumA==",
+  "success": true,
+  "projectFilePath": "F:\\Workings\\eContract\\EContractQuiz1\\EContractQuiz1\\EContractQuiz1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
